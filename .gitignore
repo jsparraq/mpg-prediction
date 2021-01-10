@@ -1,2 +1,26 @@
 ## Temporal data
 auto-mpg.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+*.egg-info/
+*.egg
+
+# pyenv
+.python-version
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# VS Code settings
+.vscode
+
+# Jupyter notebooks byte-compiled
+.ipynb_checkpoints/
